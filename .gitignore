@@ -1,0 +1,22 @@
+# Compiled binaries
+pmvhaven-dl
+pmvhaven-dl-exp
+*.exe
+dist/
+
+# Downloads and temporary segment directories
+downloads/
+.*_parts/
+*.ts
+*.tmp
+
+# Local scratch / review files
+review.txt
+cookie.json
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
